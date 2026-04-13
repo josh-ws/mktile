@@ -1,6 +1,8 @@
 # mktile
 
-`mktile` is a small utility that converts a provided image into a spritesheet with a custom tile width and size.
+`mktile` is a small utility that splits an image into a tilemap of a desired size and deduplicates individual tiles.
+
+Note: As of right now, tiles are arranged arbitrarily and this may change.
 
 It has only been tested on Fedora Linux.
 
